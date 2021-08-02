@@ -1,0 +1,14 @@
+#quote-box{
+  height: 100vh;
+}
+
+.box{
+  background-color: white;
+}
+
+
+
+.author{
+  text-align: right
+}
+
